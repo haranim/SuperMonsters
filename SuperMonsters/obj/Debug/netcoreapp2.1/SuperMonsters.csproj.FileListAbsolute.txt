@@ -1,0 +1,14 @@
+C:\work\MyProjects\Pastel\api\SuperMonsters\SuperMonsters\bin\Debug\netcoreapp2.1\SuperMonsters.deps.json
+C:\work\MyProjects\Pastel\api\SuperMonsters\SuperMonsters\bin\Debug\netcoreapp2.1\SuperMonsters.runtimeconfig.json
+C:\work\MyProjects\Pastel\api\SuperMonsters\SuperMonsters\bin\Debug\netcoreapp2.1\SuperMonsters.runtimeconfig.dev.json
+C:\work\MyProjects\Pastel\api\SuperMonsters\SuperMonsters\bin\Debug\netcoreapp2.1\SuperMonsters.dll
+C:\work\MyProjects\Pastel\api\SuperMonsters\SuperMonsters\bin\Debug\netcoreapp2.1\SuperMonsters.pdb
+C:\work\MyProjects\Pastel\api\SuperMonsters\SuperMonsters\obj\Debug\netcoreapp2.1\SuperMonsters.csprojAssemblyReference.cache
+C:\work\MyProjects\Pastel\api\SuperMonsters\SuperMonsters\obj\Debug\netcoreapp2.1\SuperMonsters.csproj.CoreCompileInputs.cache
+C:\work\MyProjects\Pastel\api\SuperMonsters\SuperMonsters\obj\Debug\netcoreapp2.1\SuperMonsters.RazorAssemblyInfo.cache
+C:\work\MyProjects\Pastel\api\SuperMonsters\SuperMonsters\obj\Debug\netcoreapp2.1\SuperMonsters.RazorAssemblyInfo.cs
+C:\work\MyProjects\Pastel\api\SuperMonsters\SuperMonsters\obj\Debug\netcoreapp2.1\SuperMonsters.AssemblyInfoInputs.cache
+C:\work\MyProjects\Pastel\api\SuperMonsters\SuperMonsters\obj\Debug\netcoreapp2.1\SuperMonsters.AssemblyInfo.cs
+C:\work\MyProjects\Pastel\api\SuperMonsters\SuperMonsters\obj\Debug\netcoreapp2.1\SuperMonsters.RazorTargetAssemblyInfo.cache
+C:\work\MyProjects\Pastel\api\SuperMonsters\SuperMonsters\obj\Debug\netcoreapp2.1\SuperMonsters.dll
+C:\work\MyProjects\Pastel\api\SuperMonsters\SuperMonsters\obj\Debug\netcoreapp2.1\SuperMonsters.pdb
